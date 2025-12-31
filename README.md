@@ -3,6 +3,14 @@
 ## תיאור
 מודול Python ליצירת Embeddings ממסמכי PDF ו-DOCX ושמירתם במסד PostgreSQL.
 
+
+
+## דרישות מוקדמות
+
+- Python 3.11 או גרסה עדכנית
+- PostgreSQL פעיל
+- מפתח Gemini API
+
 ### יכולות:
 - חילוץ טקסט נקי מ-PDF ו-DOCX
 - חלוקת הטקסט למקטעים (Chunks) בשלוש אסטרטגיות:
